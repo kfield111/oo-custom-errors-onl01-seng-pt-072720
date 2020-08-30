@@ -18,8 +18,8 @@ puts beyonce.name
 
 
 
-class PartnerError < StandardError
-end
+  class PartnerError < StandardError
+  end
 
 
 end
